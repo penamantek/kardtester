@@ -1,2 +1,2 @@
 # kardtester
-Tester for individual pins on an Arduino
+kardtester is a system that allows you to check the functionality of your Arduino UNO pins. The shield that comes with this software includes LEDs that light up to indicate when an Arduino pin is working. This software iterates through each pin on your Arduino UNO board for you to check the whether a pin works. To use kardtester, simply attach the shield to your Arduino and upload the kardtester.ino code file to your Arduino Board
